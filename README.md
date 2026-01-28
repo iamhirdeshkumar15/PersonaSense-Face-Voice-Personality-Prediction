@@ -125,7 +125,7 @@ PersonaSense/
 - **Name**: Hirdesh Kumar Yadav, Shiva Kumar Chai  
 - **College**: Lovely Professional University  
 - **Mentor**: Akash Pundir  
-- **LinkedIn**: [Add your LinkedIn profile URLs here]  
+- **LinkedIn**: [https://www.linkedin.com/in/iamhirdeshkumar15/details/projects/]  
 - **Email**: hirdeshkumaryadav15@gmail.com, shivarajachai@gmail.com
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
