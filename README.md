@@ -122,10 +122,10 @@ PersonaSense/
 
 ## 👨‍💻 Author
 
-- **Name**: Hirdesh Kumar Yadav, Shiva Kumar Chai  
+- **Name**: Hirdesh Kumar Yadav, Shiva Kumar Chai, Daresh Kumar Sah
 - **College**: Lovely Professional University  
 - **Mentor**: Akash Pundir  
-- **LinkedIn**: [https://www.linkedin.com/in/iamhirdeshkumar15/details/projects/]  
+- **LinkedIn**: https://www.linkedin.com/in/iamhirdeshkumar15/details/projects/
 - **Email**: hirdeshkumaryadav15@gmail.com, shivarajachai@gmail.com
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
